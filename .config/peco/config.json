@@ -1,0 +1,8 @@
+{
+    "Keymap": {
+        "C-h": "peco.BackwardWord",
+        "C-j": "peco.SelectDown",
+        "C-k": "peco.SelectUp",
+        "C-l": "peco.ForwardWord"
+    }
+}

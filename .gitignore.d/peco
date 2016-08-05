@@ -1,0 +1,6 @@
+*
+!/.config
+!/.config/peco
+!/.config/peco/config.json
+!/.gitignore.d
+!/.gitignore.d/peco
